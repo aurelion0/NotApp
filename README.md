@@ -18,7 +18,7 @@ The project is divided into two main parts:
 ---
 
 ## 📸 Screenshot  
-![Note-taking App Screenshot](write.png")  <!-- Add your screenshot here -->
+![Note-taking App Screenshot]("write.png")  <!-- Add your screenshot here -->
 
 ---
 
