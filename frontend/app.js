@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       notesList.innerHTML = "";
       notes.forEach((note, index) => {
         const li = document.createElement("li");
-        li.innerHTML = `${note} <button class="delete" onclick="deleteNote(${index})">Sil</button>`;
+        li.innerHTML = `${note} <button class="delete" onclick="deleteNote(${index})">Delete</button>`;
         notesList.appendChild(li);
       });
     };
